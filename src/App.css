@@ -6,7 +6,19 @@
   height: 40vmin;
   pointer-events: none;
 }
+.Details-card{
+  width: 500px;
+  margin: 50px auto;
+}
+.img-top{
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
 
+.btn{
+  margin: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
